@@ -1,1 +1,1 @@
-nyt_api_key = '3PPv8tcsK4RprAXfGrUvrWgKGR5Vzvup'
+nyt_api_key = "3PPv8tcsK4RprAXfGrUvrWgKGR5Vzvup"
